@@ -5,7 +5,7 @@ import type { PricingTier } from "@/components/PricingCard";
 export const metadata: Metadata = {
   title: "Pricing | Free Rent Checker & Pro Plans",
   description: "FairRent is free for basic rent checks. Upgrade to Pro for detailed reports, rent alerts, landlord ratings, and negotiation assistance. Starting at $9.99/month.",
-  alternates: { canonical: "https://fairrent.app/pricing" },
+  alternates: { canonical: "https://farerent.com/pricing" },
 };
 
 const tiers: PricingTier[] = [

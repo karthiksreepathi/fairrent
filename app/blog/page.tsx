@@ -5,7 +5,7 @@ import BlogCard from "@/components/BlogCard";
 export const metadata: Metadata = {
   title: "Renter Blog | Guides, Tips & Tenant Rights",
   description: "Expert guides on rent negotiation, tenant rights, and making smarter housing decisions. Data-driven advice for renters.",
-  alternates: { canonical: "https://fairrent.app/blog" },
+  alternates: { canonical: "https://farerent.com/blog" },
 };
 
 export default function BlogPage() {

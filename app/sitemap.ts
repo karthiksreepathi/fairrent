@@ -4,7 +4,7 @@ import { blogPosts } from "@/data/blog-posts";
 import { buildings } from "@/data/buildings";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://fairrent.app";
+  const baseUrl = "https://farerent.com";
 
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [

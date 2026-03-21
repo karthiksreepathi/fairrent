@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: { params: Promise<{ city: str
   return {
     title: `Average Rent in ${city.name}, ${city.stateCode} (2026) | Prices by Neighborhood`,
     description: city.metaDescription,
-    alternates: { canonical: `https://fairrent.app/rent/${city.slug}` },
+    alternates: { canonical: `https://farerent.com/rent/${city.slug}` },
     openGraph: {
       title: `Rent Prices in ${city.name}, ${city.stateCode} | FairRent`,
       description: city.metaDescription,

@@ -76,7 +76,7 @@ export default function PrivacyPage() {
 
         <section>
           <h2 className="text-lg font-semibold text-[#1c1917] mb-3">9. Contact</h2>
-          <p>For questions about this privacy policy, contact us at privacy@fairrent.app.</p>
+          <p>For questions about this privacy policy, contact us at privacy@farerent.com.</p>
         </section>
       </div>
     </div>

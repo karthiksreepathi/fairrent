@@ -14,7 +14,7 @@ export function generateOrganizationSchema() {
     contactPoint: {
       "@type": "ContactPoint",
       contactType: "customer support",
-      email: "support@fairrent.app",
+      email: "support@farerent.com",
     },
   };
 }

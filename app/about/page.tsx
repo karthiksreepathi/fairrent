@@ -5,7 +5,7 @@ import { Shield } from "lucide-react";
 export const metadata: Metadata = {
   title: "About FairRent | Our Mission to Empower Renters",
   description: "FairRent was built to level the playing field between landlords and tenants. Learn about our mission, our team, and our commitment to helping renters get a fair deal.",
-  alternates: { canonical: "https://fairrent.app/about" },
+  alternates: { canonical: "https://farerent.com/about" },
 };
 
 export default function AboutPage() {

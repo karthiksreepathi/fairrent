@@ -14,7 +14,7 @@ export default function TermsPage() {
       <div className="prose prose-stone max-w-none space-y-6 text-[#57534e] text-sm leading-relaxed">
         <section>
           <h2 className="text-lg font-semibold text-[#1c1917] mb-3">1. Acceptance of Terms</h2>
-          <p>By accessing and using FairRent (fairrent.app), you agree to these Terms of Service. If you do not agree, please do not use our services.</p>
+          <p>By accessing and using FairRent (farerent.com), you agree to these Terms of Service. If you do not agree, please do not use our services.</p>
         </section>
 
         <section>
@@ -66,7 +66,7 @@ export default function TermsPage() {
 
         <section>
           <h2 className="text-lg font-semibold text-[#1c1917] mb-3">9. Contact</h2>
-          <p>For questions about these terms, contact us at legal@fairrent.app.</p>
+          <p>For questions about these terms, contact us at legal@farerent.com.</p>
         </section>
       </div>
     </div>

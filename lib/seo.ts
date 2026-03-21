@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-const SITE_URL = "https://fairrent.app";
+const SITE_URL = "https://farerent.com";
 const SITE_NAME = "FairRent";
 const DEFAULT_DESCRIPTION = "FairRent is a free tool built for renters. Compare rent prices, check your tenant rights, and find out if your rent is truly fair. No sign-up needed.";
 

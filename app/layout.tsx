@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   },
   description:
     "FairRent is a free tool that helps everyday renters check if their rent is fair. Compare rent prices, know your tenant rights, and get a fair deal. Powered by real government data.",
-  metadataBase: new URL("https://fairrent.app"),
+  metadataBase: new URL("https://farerent.com"),
   keywords: [
     "rent checker",
     "is my rent fair",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://fairrent.app",
+    url: "https://farerent.com",
     siteName: "FairRent",
     title: "FairRent: Is Your Rent Fair? Check for Free",
     description: "Free tool for renters. Compare rent prices, check your rights, and make sure you are paying a fair price. Powered by real data.",
