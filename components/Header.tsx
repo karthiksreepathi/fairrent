@@ -26,7 +26,7 @@ export default function Header() {
               <Home className="w-4 h-4 text-white" />
             </div>
             <span className="text-xl font-bold text-[#1c1917]">
-              Fare<span className="gradient-text">Rent</span>
+              Fare<span className="gradient-text">Rent</span><span className="text-[#c2410c]">?</span>
             </span>
           </Link>
 
