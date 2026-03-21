@@ -9,7 +9,7 @@ export function generateOrganizationSchema() {
     name: SITE_NAME,
     url: SITE_URL,
     logo: `${SITE_URL}/logo.png`,
-    description: "FairRent helps everyday renters find out if their rent is truly fair, with free tools powered by real government data.",
+    description: "FareRent helps renters know the real fare before signing a lease. Free rent comparison tools powered by government data.",
     sameAs: [],
     contactPoint: {
       "@type": "ContactPoint",
@@ -128,7 +128,7 @@ export function generateSoftwareAppSchema() {
   return {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    name: "FairRent Rent Checker",
+    name: "FareRent Rent Checker",
     applicationCategory: "FinanceApplication",
     operatingSystem: "Web",
     offers: {
@@ -137,11 +137,6 @@ export function generateSoftwareAppSchema() {
       priceCurrency: "USD",
     },
     description: "A free, friendly rent comparison tool that shows you average rent prices by city and neighborhood so you can make sure your rent is fair.",
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: "4.8",
-      ratingCount: "2450",
-    },
   };
 }
 
@@ -210,7 +205,7 @@ export function generateProductSchema() {
   return {
     "@context": "https://schema.org",
     "@type": "Product",
-    name: "FairRent Premium",
+    name: "FareRent Premium",
     description: "Advanced rent analysis tools, negotiation letter generator, building intelligence, and market alerts to help you rent with confidence.",
     brand: {
       "@type": "Brand",

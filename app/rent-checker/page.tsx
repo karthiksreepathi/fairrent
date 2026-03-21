@@ -4,7 +4,7 @@ import { generateSoftwareAppSchema } from "@/lib/structured-data";
 import { Shield, Database, BarChart3, Zap } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Free Rent Checker - Deep Fairness Score with HUD Data | FairRent",
+  title: "Free Rent Checker - Deep Fairness Score with HUD Data | FareRent",
   description: "Get your deep rent fairness score powered by HUD Fair Market Rent data. Analyze 6 factors, see your percentile rank, and get negotiation leverage insights. Free for 20+ US cities.",
   alternates: { canonical: "https://farerent.com/rent-checker" },
 };

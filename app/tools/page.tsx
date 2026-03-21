@@ -14,6 +14,7 @@ export const metadata: Metadata = {
   title: "Renter Tools",
   description:
     "Free tools for renters: negotiation letter generator, move vs stay calculator, lease renewal analyzer, and comparable unit finder. Save money with data.",
+  alternates: { canonical: "https://farerent.com/tools" },
 };
 
 const tools = [

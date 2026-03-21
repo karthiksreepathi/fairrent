@@ -3,8 +3,8 @@ import Link from "next/link";
 import { Shield } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "About FairRent | Our Mission to Empower Renters",
-  description: "FairRent was built to level the playing field between landlords and tenants. Learn about our mission, our team, and our commitment to helping renters get a fair deal.",
+  title: "About FareRent | Our Mission to Empower Renters",
+  description: "FareRent was built to level the playing field between landlords and tenants. Learn about our mission, our team, and our commitment to helping renters get a fair deal.",
   alternates: { canonical: "https://farerent.com/about" },
 };
 
@@ -37,7 +37,7 @@ export default function AboutPage() {
 
           <h2 className="text-2xl font-bold text-[#1c1917] mt-10">Our Mission</h2>
           <p className="text-[#57534e] leading-relaxed">
-            FairRent exists to give tenants the same data power that landlords have. We aggregate public data on rent prices, vacancy rates, building violations, and tenant protections to create a comprehensive intelligence platform for renters. And it is free for everyone.
+            FareRent exists to give tenants the same data power that landlords have. We aggregate public data on rent prices, vacancy rates, building violations, and tenant protections to create a comprehensive intelligence platform for renters. And it is free for everyone.
           </p>
           <p className="text-[#57534e] leading-relaxed">
             We believe that when tenants have access to the same information as landlords, the rental market becomes fairer for everyone.

@@ -9,7 +9,7 @@ interface AlertSetupFormProps {
   onAlertCreated?: () => void;
 }
 
-const STORAGE_KEY = "fairrent_alerts";
+const STORAGE_KEY = "farerent_alerts";
 
 const alertTypeOptions = ["Price Drop", "New Listing", "Market Report"];
 

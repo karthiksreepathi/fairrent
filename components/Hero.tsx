@@ -60,11 +60,11 @@ export default function Hero() {
 
           {/* Headline */}
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-extrabold text-[#1c1917] leading-tight mb-6 animate-slide-up">
-            Is Your Rent{" "}
-            <span className="gradient-text">Fair</span>?
+            Know the Real{" "}
+            <span className="gradient-text">Fare</span>
             <br />
             <span className="text-[#57534e] font-bold text-3xl sm:text-4xl lg:text-5xl">
-              Find Out in 30 Seconds.
+              Before You Sign the Lease.
             </span>
           </h1>
 
@@ -73,9 +73,8 @@ export default function Hero() {
             className="text-lg sm:text-xl text-[#57534e] max-w-2xl mx-auto mb-12 animate-slide-up"
             style={{ animationDelay: "0.15s" }}
           >
-            Free tool powered by real government data. Check what renters
-            like you actually pay, know your rights, and make sure
-            you are getting a fair deal.
+            Compare what renters actually pay in your neighborhood,
+            powered by real government data. No sign-up, no fees, just the truth.
           </p>
 
           {/* Search Form */}

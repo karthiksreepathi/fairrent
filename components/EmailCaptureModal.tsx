@@ -68,7 +68,7 @@ export default function EmailCaptureModal({
       });
 
       if (res.ok) {
-        localStorage.setItem("fairrent_email", email);
+        localStorage.setItem("farerent_email", email);
         setStatus("success");
         onSubmit?.(email, name);
       } else {
@@ -114,7 +114,7 @@ export default function EmailCaptureModal({
             </div>
             <h3 className="text-xl font-bold text-[#1c1917] mb-2">You are all set!</h3>
             <p className="text-sm text-[#57534e] mb-6 leading-relaxed">
-              Welcome to FairRent. You now have full access to all features.
+              Welcome to FareRent. You now have full access to all features.
             </p>
             <button
               onClick={onClose}

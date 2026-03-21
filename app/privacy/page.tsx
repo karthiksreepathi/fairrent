@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
-  description: "FairRent privacy policy. Learn how we collect, use, and protect your data.",
+  description: "FareRent privacy policy. Learn how we collect, use, and protect your data.",
 };
 
 export default function PrivacyPage() {
@@ -14,7 +14,7 @@ export default function PrivacyPage() {
       <div className="prose prose-stone max-w-none space-y-6 text-[#57534e] text-sm leading-relaxed">
         <section>
           <h2 className="text-lg font-semibold text-[#1c1917] mb-3">1. Information We Collect</h2>
-          <p>FairRent collects minimal information to provide our services:</p>
+          <p>FareRent collects minimal information to provide our services:</p>
           <ul className="list-disc pl-5 space-y-1 mt-2">
             <li><strong>Email address</strong> - When you subscribe to our newsletter or set up rent alerts. This is voluntary.</li>
             <li><strong>Usage data</strong> - Anonymous analytics about how you use the site (pages visited, features used). We use Google Analytics.</li>
@@ -34,7 +34,7 @@ export default function PrivacyPage() {
 
         <section>
           <h2 className="text-lg font-semibold text-[#1c1917] mb-3">3. Data Sources</h2>
-          <p>FairRent uses data from publicly available government sources including:</p>
+          <p>FareRent uses data from publicly available government sources including:</p>
           <ul className="list-disc pl-5 space-y-1 mt-2">
             <li>U.S. Census Bureau American Community Survey (ACS)</li>
             <li>HUD Fair Market Rent data</li>

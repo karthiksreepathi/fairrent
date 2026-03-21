@@ -13,11 +13,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "FairRent - Is Your Rent Fair? Free Rent Checker for Renters",
-    template: "%s | FairRent",
+    default: "FareRent — Know the Real Fare Before You Sign the Lease",
+    template: "%s | FareRent",
   },
   description:
-    "FairRent is a free tool that helps everyday renters check if their rent is fair. Compare rent prices, know your tenant rights, and get a fair deal. Powered by real government data.",
+    "Free rent comparison tool for US renters. See what people actually pay in your neighborhood, check your tenant rights, and never overpay again. Powered by government data.",
   metadataBase: new URL("https://farerent.com"),
   keywords: [
     "rent checker",
@@ -35,21 +35,21 @@ export const metadata: Metadata = {
     "rent fairness score",
     "free rent checker",
   ],
-  authors: [{ name: "FairRent" }],
-  creator: "FairRent",
+  authors: [{ name: "FareRent" }],
+  creator: "FareRent",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://farerent.com",
-    siteName: "FairRent",
-    title: "FairRent: Is Your Rent Fair? Check for Free",
-    description: "Free tool for renters. Compare rent prices, check your rights, and make sure you are paying a fair price. Powered by real data.",
+    siteName: "FareRent",
+    title: "FareRent — Know the Real Fare Before You Sign",
+    description: "Free rent comparison tool. See what renters actually pay in your neighborhood and never overpay again.",
     images: [{ url: "/og-image.png", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "FairRent: Is Your Rent Fair? Check for Free",
-    description: "Free tool for renters. Compare rent prices and make sure you are paying a fair price.",
+    title: "FareRent — Know the Real Fare Before You Sign",
+    description: "Free rent comparison tool. See what renters actually pay in your neighborhood and never overpay again.",
   },
   robots: {
     index: true,
@@ -92,7 +92,7 @@ export default function RootLayout({
         <div className="bg-[#f5f3ef] border-t border-[#ede8e0] py-3">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <p className="text-[10px] text-[#a8a29e] text-center leading-relaxed">
-              FairRent provides data for informational purposes only and does not constitute financial, legal, or real estate advice.
+              FareRent provides data for informational purposes only and does not constitute financial, legal, or real estate advice.
               Rent estimates are based on available market data and may not reflect your exact situation. Always verify independently before making housing decisions.
             </p>
           </div>

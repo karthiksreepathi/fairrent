@@ -1,6 +1,6 @@
 export const faqs = [
   {
-    question: "Is FairRent really free?",
+    question: "Is FareRent really free?",
     answer:
       "Yes! Our basic rent checker, city guides, and fairness score are completely free with no sign-up required. We offer a Pro plan with advanced features like negotiation letter generation, detailed PDF reports, rent alerts, and building intelligence for $9.99/month.",
   },
@@ -10,19 +10,19 @@ export const faqs = [
       "Our rent data is aggregated from multiple public sources including HUD Fair Market Rents, Census Bureau ACS data, local housing authority records, and real-time listing data. We update our estimates monthly to reflect current market conditions. Our deep fairness score uses six weighted factors to give you a confidence-rated assessment.",
   },
   {
-    question: "Can FairRent help me negotiate my rent?",
+    question: "Can FareRent help me negotiate my rent?",
     answer:
-      "Absolutely. FairRent provides both the data and the tools you need for rent negotiations. Our Negotiation Letter Generator creates a professional, data-backed letter with market comparables and building violation history. Many users have saved $1,200 to $4,800 per year by using our tools.",
+      "Absolutely. FareRent provides both the data and the tools you need for rent negotiations. Our Negotiation Letter Generator creates a professional, data-backed letter with market comparables and building violation history. Many users have saved $1,200 to $4,800 per year by using our tools.",
   },
   {
-    question: "What cities does FairRent cover?",
+    question: "What cities does FareRent cover?",
     answer:
       "We currently cover 20 major US cities with detailed neighborhood breakdowns, including New York, Los Angeles, Chicago, Houston, Phoenix, San Francisco, Seattle, Denver, Austin, Miami, Atlanta, Boston, Nashville, Minneapolis, Portland, Washington DC, San Diego, Dallas, Philadelphia, and Detroit. We are adding more cities every month.",
   },
   {
-    question: "How is FairRent different from Zillow or Apartments.com?",
+    question: "How is FareRent different from Zillow or Apartments.com?",
     answer:
-      "Zillow and Apartments.com are primarily built for landlords and property managers. FairRent is built exclusively for tenants. We focus on giving you negotiation tools, tenant rights information, rent fairness scores, building violation data, and landlord intelligence. We are on YOUR side of the rental equation.",
+      "Zillow and Apartments.com are primarily built for landlords and property managers. FareRent is built exclusively for tenants. We focus on giving you negotiation tools, tenant rights information, rent fairness scores, building violation data, and landlord intelligence. We are on YOUR side of the rental equation.",
   },
   {
     question: "Do I need to create an account?",

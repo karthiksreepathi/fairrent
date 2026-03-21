@@ -6,7 +6,7 @@ import AlertSetupForm from "@/components/alerts/AlertSetupForm";
 import AlertCard from "@/components/alerts/AlertCard";
 import type { AlertData } from "@/components/alerts/AlertCard";
 
-const STORAGE_KEY = "fairrent_alerts";
+const STORAGE_KEY = "farerent_alerts";
 
 function loadAlerts(): AlertData[] {
   if (typeof window === "undefined") return [];

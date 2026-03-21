@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: { params: Promise<{ city: str
     description: city.metaDescription,
     alternates: { canonical: `https://farerent.com/rent/${city.slug}` },
     openGraph: {
-      title: `Rent Prices in ${city.name}, ${city.stateCode} | FairRent`,
+      title: `Rent Prices in ${city.name}, ${city.stateCode} | FareRent`,
       description: city.metaDescription,
     },
   };

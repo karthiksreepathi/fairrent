@@ -21,7 +21,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: "Learn how to determine if your rent is fair using data-driven methods. Compare your rent to local averages, understand market trends, and negotiate better deals.",
     excerpt: "Landlords use sophisticated pricing algorithms to maximize rent. Here's how you can fight back with data and determine if you're getting a fair deal.",
     category: "Rent Analysis",
-    author: "FairRent Team",
+    author: "FareRent Team",
     publishDate: "2026-03-10",
     readTime: 8,
     coverImage: "/blog/rent-fair.svg",
@@ -32,7 +32,7 @@ Most renters have no idea whether they're paying a fair price. Meanwhile, landlo
 ## How to Check If Your Rent Is Fair
 
 ### Step 1: Know Your Market Average
-The first step is understanding what similar apartments rent for in your area. Use FairRent's free rent checker to compare your rent against neighborhood averages by bedroom count.
+The first step is understanding what similar apartments rent for in your area. Use FareRent's free rent checker to compare your rent against neighborhood averages by bedroom count.
 
 ### Step 2: Factor In Your Unit's Features
 Not all apartments are created equal. Adjust your expectations based on:
@@ -73,7 +73,7 @@ Knowledge is power in the rental market. Use data to your advantage and never ac
     metaDescription: "Discover powerful tenant rights that most renters don't know about. From security deposit laws to habitability standards, learn how to protect yourself.",
     excerpt: "Most tenants don't know their rights - and landlords benefit from this ignorance. Here are the protections you need to know about.",
     category: "Tenant Rights",
-    author: "FairRent Team",
+    author: "FareRent Team",
     publishDate: "2026-03-05",
     readTime: 10,
     coverImage: "/blog/tenant-rights.svg",
@@ -112,7 +112,7 @@ Landlords generally must provide 24-48 hours notice before entering your apartme
 It's illegal for landlords to discriminate based on race, color, religion, sex, national origin, disability, or familial status. Many cities add additional protected classes.
 
 ## Know Your Local Laws
-Tenant rights vary dramatically by location. Check FairRent's city guides for protections specific to your area.`,
+Tenant rights vary dramatically by location. Check FareRent's city guides for protections specific to your area.`,
     tags: ["tenant rights", "renter protections", "landlord tenant law", "security deposit"],
   },
   {
@@ -122,7 +122,7 @@ Tenant rights vary dramatically by location. Check FairRent's city guides for pr
     metaDescription: "Learn proven rent negotiation strategies backed by market data. Includes word-for-word scripts, timing tips, and leverage tactics to lower your rent.",
     excerpt: "Renters who negotiate save an average of $1,200-2,400 per year. Here's exactly how to do it, with scripts and data to back you up.",
     category: "Negotiation",
-    author: "FairRent Team",
+    author: "FareRent Team",
     publishDate: "2026-02-28",
     readTime: 12,
     coverImage: "/blog/negotiate-rent.svg",
@@ -135,7 +135,7 @@ A landlord's biggest cost is vacancy. An empty apartment costs them $1,500-4,000
 ### Best Times:
 - **Lease renewal** (your strongest position - they don't want vacancy)
 - **Winter months** (fewer people moving = less demand)
-- **When vacancy rates are high** (check your city on FairRent)
+- **When vacancy rates are high** (check your city on FareRent)
 - **After a long tenancy** (3+ years makes you valuable)
 
 ### Worst Times:
@@ -147,7 +147,7 @@ A landlord's biggest cost is vacancy. An empty apartment costs them $1,500-4,000
 
 ### 1. Gather Data
 Before any negotiation, arm yourself with:
-- Average rent for comparable units in your neighborhood (use FairRent)
+- Average rent for comparable units in your neighborhood (use FareRent)
 - Your building's vacancy rate (count empty units)
 - Local rent trends (going up or down?)
 - Your tenant track record (on-time payments, no complaints)
@@ -189,7 +189,7 @@ Negotiation isn't confrontational - it's a business discussion. Your landlord is
     metaDescription: "Don't sign that lease until you've checked for these red flags. From hidden fees to illegal clauses, protect yourself before committing to a rental.",
     excerpt: "A lease is a legal contract that can cost you thousands if you're not careful. Here are the warning signs that experienced renters always check for.",
     category: "Renter Tips",
-    author: "FairRent Team",
+    author: "FareRent Team",
     publishDate: "2026-02-20",
     readTime: 9,
     coverImage: "/blog/red-flags.svg",
@@ -243,17 +243,17 @@ A handshake agreement or verbal lease gives you minimal legal protection. Always
 - Take photos/video of everything before moving in
 - Keep copies of all communications in writing
 - Research the landlord's other properties and reviews
-- Check the building's violation history on FairRent`,
+- Check the building's violation history on FareRent`,
     tags: ["lease tips", "red flags", "renting advice", "apartment hunting"],
   },
   {
     slug: "best-cities-for-renters-2026",
     title: "The 10 Best Cities for Renters in 2026",
     metaTitle: "Best Cities for Renters in 2026: Where Rent Is Dropping & Protections Are Strong",
-    metaDescription: "Discover the best cities for renters in 2026 based on affordability, tenant protections, and quality of life. Data-driven rankings from FairRent.",
+    metaDescription: "Discover the best cities for renters in 2026 based on affordability, tenant protections, and quality of life. Data-driven rankings from FareRent.",
     excerpt: "Not all rental markets are created equal. We ranked the best cities for renters based on affordability, tenant protections, job opportunities, and quality of life.",
     category: "City Guides",
-    author: "FairRent Team",
+    author: "FareRent Team",
     publishDate: "2026-03-12",
     readTime: 11,
     coverImage: "/blog/best-cities.svg",

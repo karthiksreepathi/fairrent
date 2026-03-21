@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 const SITE_URL = "https://farerent.com";
-const SITE_NAME = "FairRent";
-const DEFAULT_DESCRIPTION = "FairRent is a free tool built for renters. Compare rent prices, check your tenant rights, and find out if your rent is truly fair. No sign-up needed.";
+const SITE_NAME = "FareRent";
+const DEFAULT_DESCRIPTION = "Free rent comparison tool for US renters. See what people actually pay in your neighborhood, check your tenant rights, and never overpay. No sign-up needed.";
 
 export function generateMetadata({
   title,

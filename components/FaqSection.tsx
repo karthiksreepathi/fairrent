@@ -15,7 +15,7 @@ export default function FaqSection() {
             Frequently Asked Questions
           </h2>
           <p className="text-lg text-[#57534e]">
-            Everything you need to know about FairRent.
+            Everything you need to know about FareRent.
           </p>
         </div>
 

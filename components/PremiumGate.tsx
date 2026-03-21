@@ -23,7 +23,7 @@ export default function PremiumGate({
 
   useEffect(() => {
     setMounted(true);
-    const storedEmail = localStorage.getItem("fairrent_email");
+    const storedEmail = localStorage.getItem("farerent_email");
     if (storedEmail) {
       setHasAccess(true);
     }

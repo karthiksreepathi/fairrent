@@ -68,7 +68,7 @@ export default function FeaturesSection() {
             Everything You Need to Fight Unfair Rent
           </h2>
           <p className="text-lg text-[#57534e] max-w-2xl mx-auto">
-            FairRent combines government data, market intelligence, and friendly
+            FareRent combines government data, market intelligence, and friendly
             tools to help you take control of your rent.
           </p>
         </div>

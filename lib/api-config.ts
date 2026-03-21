@@ -57,7 +57,7 @@ export const apiConfig = {
  * Log which APIs are configured (call during server startup).
  */
 export function logApiStatus(): void {
-  console.log("\n--- FairRent API Status ---");
+  console.log("\n--- FareRent API Status ---");
   console.log(
     `  HUD FMR API:    ${apiConfig.hud.isAvailable ? "CONNECTED" : "using mock data (set HUD_API_KEY)"}`
   );

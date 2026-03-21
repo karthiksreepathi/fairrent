@@ -90,7 +90,7 @@ export default function Home() {
                 Landlords use enterprise pricing software like RealPage and YieldStar to algorithmically maximize what you pay. These tools analyze market data, competitor pricing, and demand patterns to extract the highest possible rent.
               </p>
               <p className="text-[#57534e] mb-8 leading-relaxed">
-                Until now, tenants had no way to fight back. <strong className="text-[#1c1917]">FairRent levels the playing field</strong> by giving you the same market data and insights, completely free, so you can make informed decisions and negotiate from a position of strength.
+                Until now, tenants had no way to fight back. <strong className="text-[#1c1917]">FareRent shows you the real fare</strong> — the same market data landlords use — completely free, so you can negotiate from a position of strength.
               </p>
               <div className="grid grid-cols-2 gap-4">
                 <div className="p-4 bg-white rounded-xl border border-[#dc2626]/15">
@@ -103,7 +103,7 @@ export default function Home() {
                   </ul>
                 </div>
                 <div className="p-4 bg-white rounded-xl border border-[#16a34a]/15">
-                  <div className="text-sm font-bold text-[#16a34a] mb-2">What FairRent Gives You</div>
+                  <div className="text-sm font-bold text-[#16a34a] mb-2">What FareRent Gives You</div>
                   <ul className="space-y-1.5 text-xs text-[#57534e]">
                     <li>Deep rent fairness scoring</li>
                     <li>Neighborhood intelligence</li>
