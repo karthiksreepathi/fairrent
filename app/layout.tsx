@@ -37,6 +37,12 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "FareRent" }],
   creator: "FareRent",
+  verification: {
+    google: process.env.NEXT_PUBLIC_GOOGLE_VERIFICATION || "",
+    other: {
+      "msvalidate.01": process.env.NEXT_PUBLIC_BING_VERIFICATION || "",
+    },
+  },
   openGraph: {
     type: "website",
     locale: "en_US",
