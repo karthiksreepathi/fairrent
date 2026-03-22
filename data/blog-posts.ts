@@ -327,6 +327,407 @@ Minneapolis combines affordable rent with the strongest tenant protections of an
 The best markets for renters in 2026 share common traits: new construction adding supply, strong or improving tenant protections, and healthy job markets that support good incomes.`,
     tags: ["best cities", "affordable rent", "city rankings", "where to live"],
   },
+  {
+    slug: "5-signs-your-rent-is-too-high",
+    title: "5 Signs Your Rent Is Too High (And What To Do About It)",
+    metaTitle: "5 Signs Your Rent Is Too High in 2026 — How to Check & Fix It",
+    metaDescription: "Think you might be overpaying rent? Here are 5 data-backed signs your rent is too high and exactly what to do about it. Free tools to check instantly.",
+    excerpt: "Most renters overpay without realizing it. Here are 5 clear signs your rent is above market rate and actionable steps to bring it back down.",
+    category: "Rent Analysis",
+    author: "FareRent Team",
+    publishDate: "2026-03-18",
+    readTime: 7,
+    coverImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80&auto=format&fit=crop",
+    content: \`## Are You Paying Too Much?
+
+Almost half of American renters are cost-burdened, meaning they spend more than 30% of their income on rent. But many renters are also paying above the market rate for their specific apartment without realizing it. Here are five signs that your rent might be higher than it should be.
+
+## Sign 1: Your Rent Exceeds the HUD Fair Market Rent
+
+The U.S. Department of Housing and Urban Development publishes Fair Market Rent figures every year for every metro area. These represent the 40th percentile of rents, meaning 40% of renters pay less.
+
+If your rent is significantly above the FMR for your area and bedroom count, you might be overpaying. Use FareRent's free rent checker to compare your rent against your local FMR.
+
+## Sign 2: Similar Units in Your Area Cost Less
+
+Look at current listings for comparable apartments in your neighborhood. If you consistently see similar units (same bedrooms, bathrooms, square footage) listed for less than what you pay, that is a strong signal your rent is inflated.
+
+Key comparison factors to match:
+- Same neighborhood (within a half-mile radius)
+- Same bedroom and bathroom count
+- Similar building age and condition
+- Comparable amenities (parking, laundry, etc.)
+
+## Sign 3: Your Building Has High Vacancy
+
+Walk around your building. Count the empty units. Talk to your doorman or neighbors. If your building has noticeable vacancies (5% or more), your landlord may have room to negotiate. Empty apartments cost landlords thousands per month, which gives you leverage.
+
+## Sign 4: You Have Not Negotiated in Over a Year
+
+Landlords rarely lower rent on their own. If you have automatically accepted rent increases without ever pushing back or checking market data, there is a good chance you are paying more than a new tenant would.
+
+Market conditions change constantly. Rents in cities like Austin, Phoenix, and Portland actually declined recently, but landlords did not pass those savings on to existing tenants.
+
+## Sign 5: Your Rent-to-Income Ratio Exceeds 30%
+
+The widely accepted guideline is that rent should not exceed 30% of your gross monthly income. If you are above that threshold, it does not necessarily mean your landlord is overcharging, but it does mean you should actively look for ways to reduce your housing costs.
+
+Calculate yours: Monthly Rent divided by Monthly Gross Income times 100.
+
+## What to Do If Your Rent Is Too High
+
+### Step 1: Get the Data
+Use FareRent to check what similar apartments actually rent for in your area. Hard data is your most powerful negotiation tool.
+
+### Step 2: Document Your Value
+Write down why you are a good tenant. On-time payments, no complaints, long tenancy, and taking care of the unit all have value to your landlord.
+
+### Step 3: Have the Conversation
+Approach your landlord professionally with your data. Most landlords prefer negotiating with a good existing tenant over finding a new one. The cost of tenant turnover (vacancy, cleaning, repairs, marketing) typically runs between $2,500 and $10,000.
+
+### Step 4: Consider Your Options
+If your landlord will not budge:
+- Ask for non-rent concessions (free parking, included utilities)
+- Request a longer lease at a lower rate
+- Start looking at comparable units and be prepared to move
+
+## The Bottom Line
+
+Overpaying rent is not something you have to accept. The rental market changes constantly, and knowledge gives you power. Check your fare before your next renewal.\`,
+    tags: ["rent too high", "overpaying rent", "rent check", "save money on rent"],
+  },
+  {
+    slug: "rent-increase-what-to-do",
+    title: "Got a Rent Increase? Here Is Exactly What to Do",
+    metaTitle: "Rent Increase Notice? 7 Steps to Take Right Now (2026 Guide)",
+    metaDescription: "Received a rent increase notice? Don't panic. Follow these 7 steps to evaluate, negotiate, or fight an unfair rent hike. Includes scripts and legal tips.",
+    excerpt: "A rent increase notice does not mean you have to accept it. Here is a step-by-step plan to evaluate whether the increase is justified and how to push back.",
+    category: "Negotiation",
+    author: "FareRent Team",
+    publishDate: "2026-03-20",
+    readTime: 9,
+    coverImage: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80&auto=format&fit=crop",
+    content: \`## Stay Calm and Follow These Steps
+
+Getting a rent increase notice can feel like a punch to the gut. But before you panic or start packing boxes, know this: rent increases are negotiable, sometimes illegal, and always worth questioning.
+
+## Step 1: Check If the Increase Is Legal
+
+Different jurisdictions have different rules about rent increases:
+
+**Rent-controlled or rent-stabilized cities** like New York, San Francisco, Los Angeles, and Washington DC have strict caps on how much rent can increase annually. If you live in a rent-regulated unit, your landlord might be breaking the law.
+
+**States with rent caps** including Oregon (7% plus inflation) and California (5% plus inflation for qualifying units) limit annual increases.
+
+**Most other areas** have no legal limits on rent increases, but landlords must still provide proper notice (typically 30 to 90 days depending on your lease and local law).
+
+Check your local tenant rights on FareRent's city guides.
+
+## Step 2: Research Current Market Rates
+
+Use FareRent to check what comparable apartments currently rent for in your area. If the market has softened or remained flat but your landlord is asking for a significant increase, you have strong negotiation leverage.
+
+Key data points to gather:
+- Average rent for your bedroom count in your neighborhood
+- Whether rents in your city are trending up or down
+- Vacancy rates in your area (higher vacancy means more leverage for you)
+
+## Step 3: Calculate the Real Impact
+
+Do the math on what the increase means for your budget:
+- Monthly impact: New rent minus current rent
+- Annual impact: Monthly increase times 12
+- Your new rent-to-income ratio
+
+Is the increased rent still competitive for your area, or does it push you above market rates?
+
+## Step 4: Assess Your Landlord's Position
+
+Consider things from their side. Landlords raise rent for legitimate reasons:
+- Property taxes increased
+- Insurance costs went up
+- Maintenance and repair costs rose
+- Market rates genuinely increased
+
+Understanding their reasoning helps you craft a better counter-argument.
+
+## Step 5: Prepare Your Counter-Offer
+
+Build your case with data:
+- Comparable rents in the neighborhood (from FareRent)
+- Your track record as a tenant (on-time payments, low maintenance)
+- The cost to replace you (vacancy, turnover, marketing a new listing)
+- Any building issues that justify a lower rent
+
+## Step 6: Negotiate in Writing
+
+Send an email or letter to your landlord. Written communication creates a record and gives everyone time to consider the numbers.
+
+Sample approach:
+
+"Thank you for letting me know about the upcoming rent adjustment. I have enjoyed living here and would like to stay. I have done some research on current market rates in our neighborhood, and comparable units are renting for around [amount]. Given my strong rental history over the past [X years] with on-time payments and minimal maintenance requests, I would like to discuss a more modest adjustment. Would you consider [your counter-offer]? I am happy to sign a longer lease term if that helps."
+
+## Step 7: Know When to Walk
+
+Sometimes the math just does not work. If your landlord will not negotiate and the increase pushes your rent well above market rates, it might be time to look for a new place.
+
+Use FareRent's comparable finder to identify better-priced alternatives in your area. Moving costs money, but overpaying rent month after month costs more.
+
+## Timing Matters
+
+The best time to negotiate is before you receive the increase notice. Reach out to your landlord 60 to 90 days before your lease expires to start the conversation early. Landlords appreciate proactive tenants and are more flexible when they have time to plan.\`,
+    tags: ["rent increase", "negotiation", "tenant rights", "lease renewal"],
+  },
+  {
+    slug: "hud-fair-market-rent-explained",
+    title: "HUD Fair Market Rent 2026: What It Means for Renters",
+    metaTitle: "HUD Fair Market Rent 2026 Explained — What Every Renter Should Know",
+    metaDescription: "What is HUD Fair Market Rent and how does it affect you? Learn how FMR is calculated, what the 2026 rates mean, and how to use this data when apartment hunting.",
+    excerpt: "Fair Market Rent is one of the most important numbers in the rental market, yet most renters have never heard of it. Here is what it means and how to use it.",
+    category: "Rent Analysis",
+    author: "FareRent Team",
+    publishDate: "2026-03-15",
+    readTime: 8,
+    coverImage: "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=800&q=80&auto=format&fit=crop",
+    content: \`## What Is Fair Market Rent?
+
+Fair Market Rent, commonly abbreviated as FMR, is a figure published annually by the U.S. Department of Housing and Urban Development. It represents an estimate of the amount of money needed to rent a moderately priced dwelling in a specific area.
+
+More specifically, the FMR is set at the 40th percentile of gross rents for typical, non-substandard rental units. This means that 40% of the apartments in a given area rent for less than the FMR, and 60% rent for more.
+
+## Why Should You Care?
+
+FMR matters to every renter for several reasons:
+
+### Benchmark for Fair Pricing
+FMR gives you an objective, government-sourced number to compare your rent against. If you are paying significantly more than the FMR for your area and bedroom count, you might be overpaying.
+
+### Housing Voucher Amounts
+Section 8 Housing Choice Vouchers use FMR to determine payment standards. Even if you do not receive housing assistance, FMR influences overall market dynamics.
+
+### Market Trend Indicator
+Year-over-year changes in FMR reveal whether rents in your area are trending up or down. This information is invaluable for negotiation timing.
+
+## How Is FMR Calculated?
+
+HUD uses a combination of data sources:
+- American Community Survey data from the Census Bureau
+- Consumer Price Index residential rent component
+- Random digit dialing telephone surveys
+- Local area survey data
+
+The FMR is calculated for every metropolitan area and non-metropolitan county in the United States, covering the entire country.
+
+## 2026 FMR Highlights
+
+Some notable Fair Market Rents for a 2-bedroom apartment in 2026:
+
+- **New York City metro**: $2,387 per month
+- **San Francisco metro**: $2,853 per month
+- **Los Angeles metro**: $2,154 per month
+- **Chicago metro**: $1,308 per month
+- **Houston metro**: $1,243 per month
+- **Austin metro**: $1,468 per month
+- **Denver metro**: $1,744 per month
+- **National median**: $1,194 per month
+
+These figures vary significantly by sub-area within each metro. Downtown San Francisco is very different from the outer suburbs, even though both fall within the same metro area definition.
+
+## How to Use FMR to Your Advantage
+
+### When Apartment Hunting
+Compare listing prices against the FMR for that area. If a listing is significantly above the FMR, there should be a clear reason (luxury finishes, prime location, exceptional amenities).
+
+### When Negotiating Rent
+Use FMR as an objective reference point. You are not just saying the rent is too high based on feelings. You are referencing a government-published benchmark.
+
+### When Evaluating a Rent Increase
+If your landlord proposes an increase that pushes your rent well above the FMR, you have data-backed grounds to push back.
+
+## FMR Limitations
+
+FMR is not perfect. Some things to keep in mind:
+- It represents the 40th percentile, not the average or median
+- It covers broad metro areas, not specific neighborhoods
+- It does not account for unit-specific features like renovations or views
+- Updated annually, so it can lag behind rapidly changing markets
+
+That is why FareRent combines FMR data with other sources like Census Bureau rent statistics and real-time listing data to give you a more complete picture.
+
+## Check Your FMR
+
+Use FareRent's rent checker to instantly compare your rent against the HUD Fair Market Rent for your specific area. It is free, takes 30 seconds, and could save you hundreds per month.\`,
+    tags: ["fair market rent", "HUD", "FMR 2026", "rent data", "government data"],
+  },
+  {
+    slug: "how-much-should-i-spend-on-rent",
+    title: "How Much Should You Spend on Rent? The Real Math",
+    metaTitle: "How Much Should I Spend on Rent? The 2026 Guide Beyond the 30% Rule",
+    metaDescription: "The 30% rule for rent is outdated. Here is a modern framework for how much you should actually spend on rent based on your income, city, and lifestyle.",
+    excerpt: "Everyone says spend no more than 30% on rent. But is that rule still realistic in 2026? Here is a modern approach to budgeting for housing.",
+    category: "Personal Finance",
+    author: "FareRent Team",
+    publishDate: "2026-03-22",
+    readTime: 8,
+    coverImage: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&q=80&auto=format&fit=crop",
+    content: \`## The 30% Rule Is Outdated
+
+You have probably heard the advice: do not spend more than 30% of your gross income on rent. This rule has been repeated by financial advisors, landlords, and parents for decades.
+
+But here is the problem: that guideline was established in 1981 by the federal government. The economy, cost of living, and rental market look nothing like they did 45 years ago.
+
+## Why the 30% Rule Breaks Down
+
+### In Expensive Cities
+If you earn $60,000 in San Francisco, 30% of your gross income is $1,500 per month. Good luck finding a studio apartment for that. Following this rule strictly would mean most people in major cities literally cannot afford to live there.
+
+### For High Earners
+If you earn $200,000, 30% is $5,000 per month. You certainly do not need to spend that much on rent. High earners can often find great apartments for 15 to 20% of income and invest the rest.
+
+### For Lower Incomes
+If you earn $30,000, 30% is only $750 per month. In most cities, this is not enough for a safe, habitable apartment. The rule can make people feel like failures when the reality is that wages have not kept up with housing costs.
+
+## A Better Framework for 2026
+
+Instead of a single percentage, use this tiered approach:
+
+### The 50/30/20 Adjusted Model
+
+**Needs (50% of after-tax income):**
+Rent, utilities, groceries, insurance, minimum loan payments, transportation
+
+**Wants (30% of after-tax income):**
+Dining out, entertainment, shopping, subscriptions, travel
+
+**Savings and Debt (20% of after-tax income):**
+Emergency fund, retirement, extra debt payments, investments
+
+Under this model, your rent should fit within the 50% needs category, but it does not have to consume all of it. A reasonable target for rent specifically is 25 to 35% of after-tax income.
+
+## Rent Budgeting by Income Level
+
+### Under $40,000 per year
+- Target: Keep rent as low as possible
+- Reality: You may need roommates or a longer commute
+- Tip: Look into income-restricted housing and HUD programs
+
+### $40,000 to $75,000 per year
+- Target: 28 to 33% of gross income
+- Strategy: Balance location with affordability
+- Tip: Negotiate aggressively and check FareRent for fair pricing
+
+### $75,000 to $125,000 per year
+- Target: 25 to 30% of gross income
+- Strategy: You have more options but do not overspend
+- Tip: Save the difference between what you can afford and what you pay
+
+### Over $125,000 per year
+- Target: 20 to 25% of gross income
+- Strategy: Invest the savings instead of lifestyle inflation
+- Tip: Even at high incomes, always check if your rent is fair
+
+## Other Costs to Factor In
+
+Rent is not your only housing cost. Budget for these too:
+- **Utilities**: $100 to $300 per month (electricity, gas, water, internet)
+- **Renter's insurance**: $15 to $30 per month
+- **Parking**: $0 to $300 per month depending on city
+- **Laundry**: $30 to $50 per month if not in-unit
+- **Moving costs**: Budget $1,000 to $5,000 for the actual move
+
+Your true housing cost is rent plus all of these expenses combined.
+
+## The Real Question
+
+Instead of asking "what percentage should I spend on rent," ask yourself:
+- After paying rent and all bills, can I still save money each month?
+- Am I building an emergency fund (3 to 6 months of expenses)?
+- Am I contributing to retirement?
+- Do I have money for things I enjoy?
+
+If you answer yes to all four, your rent is probably in a healthy range regardless of the exact percentage.
+
+## Check If Your Current Rent Is Fair
+
+Whatever your budget, make sure you are not overpaying for your specific apartment. Use FareRent to compare your rent against neighborhood averages. You might find that a comparable apartment nearby costs significantly less, freeing up money for your other financial goals.\`,
+    tags: ["rent budget", "30 percent rule", "how much rent", "personal finance", "budgeting"],
+  },
+  {
+    slug: "apartment-red-flags-before-signing",
+    title: "12 Apartment Red Flags to Watch For Before Signing a Lease",
+    metaTitle: "12 Apartment Red Flags: What to Check Before Signing a Lease in 2026",
+    metaDescription: "Don't get stuck in a bad apartment. These 12 red flags can save you from signing a terrible lease. Includes what to check during tours, in the lease, and online.",
+    excerpt: "A bad apartment can cost you thousands and months of stress. Learn to spot these warning signs before you commit to signing a lease.",
+    category: "Renter Tips",
+    author: "FareRent Team",
+    publishDate: "2026-03-21",
+    readTime: 10,
+    coverImage: "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?w=800&q=80&auto=format&fit=crop",
+    content: \`## Do Your Homework Before Signing
+
+Finding a new apartment is exciting. But excitement can cloud your judgment. Rushing into a lease because the kitchen looks nice or the rent seems like a deal can lead to months of regret.
+
+Here are 12 red flags that experienced renters always check for.
+
+## Red Flags During the Tour
+
+### 1. The Landlord Rushes the Showing
+A landlord who will not let you spend time inspecting the apartment, does not let you open cabinets, or hurries you through has something to hide. Take your time. If they pressure you, walk away.
+
+### 2. Evidence of Water Damage
+Look up at ceilings and down at baseboards. Stains, bubbling paint, warped flooring, or musty smells indicate water damage. Water problems lead to mold, which is a serious health hazard and extremely expensive to fix.
+
+### 3. Poor Water Pressure or Discolored Water
+Turn on every faucet during your tour. Low water pressure can indicate plumbing issues. Brown or yellow water suggests old pipes that may contain harmful materials.
+
+### 4. Signs of Pest Problems
+Check corners of cabinets and closets. Look behind the stove and refrigerator if possible. Droppings, traps, or dead insects are warning signs. Ask the landlord directly about pest history and what pest control measures are in place.
+
+### 5. Broken or Missing Safety Equipment
+Check for working smoke detectors and carbon monoxide detectors. Test the locks on all doors and windows. If safety equipment is missing during the showing, imagine how maintenance requests will be handled after you move in.
+
+### 6. Cell Signal and Internet Availability
+Check your phone signal in every room. Ask about internet providers available at the address. Some buildings in older areas have limited broadband options, and weak cell signal can be a daily frustration.
+
+## Red Flags in the Lease
+
+### 7. Vague or Missing Maintenance Terms
+The lease should clearly state who is responsible for repairs, how quickly maintenance requests will be addressed, and what happens if the landlord fails to make necessary repairs. Vague language favors the landlord.
+
+### 8. Excessive Fees
+Read the fine print for hidden charges:
+- Application fees over $50 to $75
+- Administrative fees with no clear purpose
+- Mandatory services like cable packages you do not want
+- Fees for normal wear and tear at move-out
+
+### 9. No Out Clause or Extreme Penalties
+Life happens. If the lease requires you to pay the entire remaining balance for breaking the lease early, that is unusually harsh. Most reasonable leases allow early termination with 60 days notice plus a penalty of 1 to 2 months rent.
+
+## Red Flags About the Landlord
+
+### 10. No Online Presence or Reviews
+Google your landlord and property management company. Check reviews on Google, Yelp, and the Better Business Bureau. A complete absence of information is unusual. Multiple negative reviews about the same issues (slow repairs, deposit disputes) are a pattern you should take seriously.
+
+### 11. They Will Not Provide References
+A good landlord should be willing to connect you with current or recent tenants. If they refuse, ask yourself why.
+
+### 12. The Price Seems Too Good
+If the rent is significantly below market rate for the area with no obvious explanation, be cautious. Scam listings that steal deposits from multiple victims are common. Always verify ownership of the property and never send money without seeing the unit and signing a lease.
+
+## How to Protect Yourself
+
+Before signing any lease:
+- Check the building's violation history on FareRent
+- Compare the rent against neighborhood averages using FareRent's rent checker
+- Take photos and video of every room before moving in
+- Get everything in writing, verbal promises do not count
+- Read the entire lease, every page, every clause
+- Have a trusted friend or family member review the lease too
+
+A little due diligence now can save you thousands of dollars and enormous stress later.\`,
+    tags: ["apartment red flags", "lease warning signs", "apartment hunting", "first time renter"],
+  },
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
