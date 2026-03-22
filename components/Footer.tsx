@@ -108,12 +108,12 @@ export default function Footer() {
                 <Home className="w-3.5 h-3.5 text-white" />
               </div>
               <span className="text-sm font-semibold text-[#1c1917]">
-                Fare<span className="gradient-text">Rent</span><span className="text-[#c2410c]">?</span>
+                Fare<span className="gradient-text">Rent</span>
               </span>
             </div>
             <div className="flex items-center gap-4">
               <p className="text-sm text-[#a8a29e]">
-                &copy; {new Date().getFullYear()} FareRent? — Know the real fare.
+                &copy; {new Date().getFullYear()} FareRent. Know the real fare.
               </p>
               <span className="text-[#e2ddd5]">|</span>
               <Link href="/privacy" className="text-xs text-[#a8a29e] hover:text-[#57534e] transition-colors">Privacy</Link>

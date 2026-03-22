@@ -59,7 +59,7 @@ export default async function Image() {
             F
           </div>
           <div style={{ fontSize: "42px", fontWeight: 800, color: "#1c1917" }}>
-            Fare<span style={{ color: "#c2410c" }}>Rent?</span>
+            Fare<span style={{ color: "#c2410c" }}>Rent</span>
           </div>
         </div>
 
