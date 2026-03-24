@@ -338,7 +338,7 @@ The best markets for renters in 2026 share common traits: new construction addin
     publishDate: "2026-03-18",
     readTime: 7,
     coverImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80&auto=format&fit=crop",
-    content: \`## Are You Paying Too Much?
+    content: `## Are You Paying Too Much?
 
 Almost half of American renters are cost-burdened, meaning they spend more than 30% of their income on rent. But many renters are also paying above the market rate for their specific apartment without realizing it. Here are five signs that your rent might be higher than it should be.
 
@@ -393,7 +393,7 @@ If your landlord will not budge:
 
 ## The Bottom Line
 
-Overpaying rent is not something you have to accept. The rental market changes constantly, and knowledge gives you power. Check your fare before your next renewal.\`,
+Overpaying rent is not something you have to accept. The rental market changes constantly, and knowledge gives you power. Check your fare before your next renewal.`,
     tags: ["rent too high", "overpaying rent", "rent check", "save money on rent"],
   },
   {
@@ -407,7 +407,7 @@ Overpaying rent is not something you have to accept. The rental market changes c
     publishDate: "2026-03-20",
     readTime: 9,
     coverImage: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80&auto=format&fit=crop",
-    content: \`## Stay Calm and Follow These Steps
+    content: `## Stay Calm and Follow These Steps
 
 Getting a rent increase notice can feel like a punch to the gut. But before you panic or start packing boxes, know this: rent increases are negotiable, sometimes illegal, and always worth questioning.
 
@@ -475,7 +475,7 @@ Use FareRent's comparable finder to identify better-priced alternatives in your 
 
 ## Timing Matters
 
-The best time to negotiate is before you receive the increase notice. Reach out to your landlord 60 to 90 days before your lease expires to start the conversation early. Landlords appreciate proactive tenants and are more flexible when they have time to plan.\`,
+The best time to negotiate is before you receive the increase notice. Reach out to your landlord 60 to 90 days before your lease expires to start the conversation early. Landlords appreciate proactive tenants and are more flexible when they have time to plan.`,
     tags: ["rent increase", "negotiation", "tenant rights", "lease renewal"],
   },
   {
@@ -489,7 +489,7 @@ The best time to negotiate is before you receive the increase notice. Reach out 
     publishDate: "2026-03-15",
     readTime: 8,
     coverImage: "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=800&q=80&auto=format&fit=crop",
-    content: \`## What Is Fair Market Rent?
+    content: `## What Is Fair Market Rent?
 
 Fair Market Rent, commonly abbreviated as FMR, is a figure published annually by the U.S. Department of Housing and Urban Development. It represents an estimate of the amount of money needed to rent a moderately priced dwelling in a specific area.
 
@@ -556,7 +556,7 @@ That is why FareRent combines FMR data with other sources like Census Bureau ren
 
 ## Check Your FMR
 
-Use FareRent's rent checker to instantly compare your rent against the HUD Fair Market Rent for your specific area. It is free, takes 30 seconds, and could save you hundreds per month.\`,
+Use FareRent's rent checker to instantly compare your rent against the HUD Fair Market Rent for your specific area. It is free, takes 30 seconds, and could save you hundreds per month.`,
     tags: ["fair market rent", "HUD", "FMR 2026", "rent data", "government data"],
   },
   {
@@ -570,7 +570,7 @@ Use FareRent's rent checker to instantly compare your rent against the HUD Fair 
     publishDate: "2026-03-22",
     readTime: 8,
     coverImage: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&q=80&auto=format&fit=crop",
-    content: \`## The 30% Rule Is Outdated
+    content: `## The 30% Rule Is Outdated
 
 You have probably heard the advice: do not spend more than 30% of your gross income on rent. This rule has been repeated by financial advisors, landlords, and parents for decades.
 
@@ -649,7 +649,7 @@ If you answer yes to all four, your rent is probably in a healthy range regardle
 
 ## Check If Your Current Rent Is Fair
 
-Whatever your budget, make sure you are not overpaying for your specific apartment. Use FareRent to compare your rent against neighborhood averages. You might find that a comparable apartment nearby costs significantly less, freeing up money for your other financial goals.\`,
+Whatever your budget, make sure you are not overpaying for your specific apartment. Use FareRent to compare your rent against neighborhood averages. You might find that a comparable apartment nearby costs significantly less, freeing up money for your other financial goals.`,
     tags: ["rent budget", "30 percent rule", "how much rent", "personal finance", "budgeting"],
   },
   {
@@ -663,7 +663,7 @@ Whatever your budget, make sure you are not overpaying for your specific apartme
     publishDate: "2026-03-21",
     readTime: 10,
     coverImage: "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?w=800&q=80&auto=format&fit=crop",
-    content: \`## Do Your Homework Before Signing
+    content: `## Do Your Homework Before Signing
 
 Finding a new apartment is exciting. But excitement can cloud your judgment. Rushing into a lease because the kitchen looks nice or the rent seems like a deal can lead to months of regret.
 
@@ -725,7 +725,7 @@ Before signing any lease:
 - Read the entire lease, every page, every clause
 - Have a trusted friend or family member review the lease too
 
-A little due diligence now can save you thousands of dollars and enormous stress later.\`,
+A little due diligence now can save you thousands of dollars and enormous stress later.`,
     tags: ["apartment red flags", "lease warning signs", "apartment hunting", "first time renter"],
   },
   {
@@ -739,7 +739,7 @@ A little due diligence now can save you thousands of dollars and enormous stress
     publishDate: "2026-03-22",
     readTime: 12,
     coverImage: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80&auto=format&fit=crop",
-    content: \`## The Biggest Financial Myth in America
+    content: `## The Biggest Financial Myth in America
 
 "Stop throwing money away on rent." You have heard it from parents, coworkers, financial gurus, and random people on the internet. But is buying always better than renting? The honest answer: it depends on math that most people never actually do.
 
@@ -822,7 +822,7 @@ How long will you stay? How stable is your income? Do you want the responsibilit
 
 ## The Bottom Line
 
-There is no universal answer. Buying is not automatically smart and renting is not automatically wasteful. Run the actual numbers for your specific situation. Use FareRent to check what fair rent looks like in your area, and compare that against the true total cost of homeownership. The math will tell you the right answer.\`,
+There is no universal answer. Buying is not automatically smart and renting is not automatically wasteful. Run the actual numbers for your specific situation. Use FareRent to check what fair rent looks like in your area, and compare that against the true total cost of homeownership. The math will tell you the right answer.`,
     tags: ["rent vs buy", "renting vs buying", "home buying", "personal finance", "housing market 2026"],
   },
   {
@@ -836,7 +836,7 @@ There is no universal answer. Buying is not automatically smart and renting is n
     publishDate: "2026-03-22",
     readTime: 9,
     coverImage: "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80&auto=format&fit=crop",
-    content: \`## Before You Start Looking
+    content: `## Before You Start Looking
 
 Getting your first apartment right starts before you ever browse listings. Preparation saves money and prevents costly mistakes.
 
@@ -966,7 +966,7 @@ This protects your security deposit:
 - Create a monthly budget tracking rent, utilities, and all expenses
 - Start building an emergency fund if you do not have one
 
-Your first apartment is a big step. Take it seriously, prepare well, and use tools like FareRent to make sure you are paying a fair price from day one.\`,
+Your first apartment is a big step. Take it seriously, prepare well, and use tools like FareRent to make sure you are paying a fair price from day one.`,
     tags: ["first apartment", "first time renter", "moving checklist", "apartment essentials", "renter guide"],
   },
   {
@@ -980,7 +980,7 @@ Your first apartment is a big step. Take it seriously, prepare well, and use too
     publishDate: "2026-03-21",
     readTime: 10,
     coverImage: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80&auto=format&fit=crop",
-    content: \`## When You Need to Leave Early
+    content: `## When You Need to Leave Early
 
 Sometimes you need to break a lease. A job relocation, a family emergency, safety concerns, or simply realizing the apartment is unlivable. Whatever the reason, you have more options than you think.
 
@@ -1071,7 +1071,7 @@ Many cities have free tenant legal aid organizations. Check with your local bar 
 
 ## The Bottom Line
 
-Breaking a lease is not ideal, but it is not the end of the world. Know your rights, communicate with your landlord, and document everything. In most cases, you can walk away for the cost of 1 to 2 months rent.\`,
+Breaking a lease is not ideal, but it is not the end of the world. Know your rights, communicate with your landlord, and document everything. In most cases, you can walk away for the cost of 1 to 2 months rent.`,
     tags: ["breaking a lease", "early termination", "tenant rights", "lease penalty", "moving out early"],
   },
   {
@@ -1085,7 +1085,7 @@ Breaking a lease is not ideal, but it is not the end of the world. Know your rig
     publishDate: "2026-03-20",
     readTime: 11,
     coverImage: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6e?w=800&q=80&auto=format&fit=crop",
-    content: \`## The Rent Increase Reality
+    content: `## The Rent Increase Reality
 
 Rent increases are one of the most stressful things renters deal with. A $200 per month increase means $2,400 more per year coming out of your pocket. But many renters do not know their rights or that they can push back.
 
@@ -1191,7 +1191,7 @@ Sometimes a rent increase is your signal to relocate. Consider moving if:
 - The building has ongoing maintenance issues that do not justify higher rent
 - You were already unhappy with the apartment
 
-Check FareRent before making any decisions. You might find that moving to a nearby neighborhood saves you hundreds per month, or you might discover that your current rent is actually still below average and worth keeping.\`,
+Check FareRent before making any decisions. You might find that moving to a nearby neighborhood saves you hundreds per month, or you might discover that your current rent is actually still below average and worth keeping.`,
     tags: ["rent increase", "tenant rights", "rent control", "landlord laws", "rent negotiation"],
   },
   {
@@ -1205,7 +1205,7 @@ Check FareRent before making any decisions. You might find that moving to a near
     publishDate: "2026-03-19",
     readTime: 8,
     coverImage: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&q=80&auto=format&fit=crop",
-    content: \`## Timing Matters More Than You Think
+    content: `## Timing Matters More Than You Think
 
 Most people search for apartments when their lease expires or when life forces a move. But if you have flexibility on timing, you can save hundreds of dollars per month by signing your lease during the right season.
 
@@ -1302,7 +1302,7 @@ Check FareRent to see current market rates before negotiating. Knowing the avera
 
 If you can control when you move, aim for November through February. The savings can add up to $1,200 to $3,600 over a 12-month lease. Even shifting your move date by a month or two can make a real difference.
 
-Check current market conditions on FareRent before signing anything. The data might reveal that your target neighborhood bucks the seasonal trend, or that a nearby area offers even better value.\`,
+Check current market conditions on FareRent before signing anything. The data might reveal that your target neighborhood bucks the seasonal trend, or that a nearby area offers even better value.`,
     tags: ["best time to rent", "apartment timing", "cheap rent months", "seasonal rent", "save on rent"],
   },
 ];
